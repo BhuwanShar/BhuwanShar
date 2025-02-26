@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bioinformatics.
 -  Programing languages I usually work with-Python, R.
 -  Have basics of languages like C and java and have experience on linux terminal.
-- 🌱 I’m currently learning SQL, javaScript, Machine Learning.
+- 🌱 I’m currently exploring Natural Language Processing and Transformer based models like BERT.
 -  I’m looking to collaborate on Bioinformatics related works.
 - 📫 How to reach me- bhuwangautam09@gmail.com
 
