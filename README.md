@@ -9,7 +9,7 @@
 
 <h2>📌 About</h2>
 
-I’m currently pursuing a Master's in <strong>Bioinformatics</strong>, with a focus on modeling biological systems using statistical and machine learning techniques. My current direction lies at the intersection of graph-based methods, biological ontologies, and neural sequence representations.
+Cross -  domain research enthusiast, with deep interest in <strong> modeling biological systems </strong> through <strong> statistical learning, machine intelligence and systems biology </strong>. My current direction lies at the intersection of graph-based methods, biological ontologies, and neural sequence representations.
 
 ---
 
