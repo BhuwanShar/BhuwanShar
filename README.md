@@ -2,14 +2,14 @@
 
 <p align="center">
   <strong>Bioinformatics • GRNs • Machine Learning • Sequence Representation</strong><br>
-  <em>Student in Bioinformatics exploring the interface of biology and computation</em>
+  <em> Exploring the interface of biology and computation</em>
 </p>
 
 <hr>
 
 <h2>📌 About</h2>
 
-Cross -  domain research enthusiast, with deep interest in <strong> modeling biological systems </strong> through <strong> statistical learning, machine intelligence and systems biology </strong>. My current direction lies at the intersection of graph-based methods, biological ontologies, and neural sequence representations.
+Cross -  domain research enthusiast, with deep interest in <strong> modeling biological systems </strong> through <strong> statistical learning </strong>,<strong> machine intelligence </strong> and <strong> systems biology </strong>. My current direction lies at the intersection of graph-based methods, biological ontologies, and neural sequence representations.
 
 ---
 
