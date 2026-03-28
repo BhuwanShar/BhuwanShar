@@ -1,7 +1,7 @@
 <h1 align="center">Bhuwan Sharma</h1>
 
 <p align="center">
-  <strong>Bioinformatics • GRNs • Machine Learning • Sequence Representation</strong><br>
+  <strong> Computational and Syatems biology • Bioinformatics • Deep Learning /strong><br>
   <em> Exploring the interface of biology and computation</em>
 </p>
 
