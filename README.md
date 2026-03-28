@@ -1,7 +1,7 @@
 <h1 align="center">Bhuwan Sharma</h1>
 
 <p align="center">
-  <strong> Computational and Syatems biology • Bioinformatics • Deep Learning /strong><br>
+  <strong> Computational and System biology • Bioinformatics • Deep Learning /strong><br>
   <em> Exploring the interface of biology and computation</em>
 </p>
 
