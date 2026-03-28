@@ -7,13 +7,13 @@
 
 <hr>
 
-<h2>📌 About</h2>
+<h2> About</h2>
 
 Cross -  domain research enthusiast, with deep interest in <strong> modeling biological systems </strong> through <strong> statistical learning </strong>,<strong> machine intelligence </strong> and <strong> systems biology </strong>. My current direction lies at the intersection of graph-based methods, biological ontologies, and neural sequence representations.
 
 ---
 
-<h2>🔬 Research Interests</h2>
+<h2> Research Interests</h2>
 
 <ul>
   <li><strong>Gene Regulatory Networks (GRNs)</strong> — structure inference and analysis from transcriptomics</li>
@@ -25,7 +25,7 @@ Cross -  domain research enthusiast, with deep interest in <strong> modeling bio
 
 ---
 
-<h2>🛠️ Technical Stack</h2>
+<h2> Technical Stack</h2>
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ Cross -  domain research enthusiast, with deep interest in <strong> modeling bio
 
 ---
 
-<h2>🚧 Current Focus</h2>
+<h2> Current Focus</h2>
 
 <ul>
   <li>Graph-based modeling of biological systems with structure-aware learning methods</li>
@@ -58,7 +58,7 @@ Cross -  domain research enthusiast, with deep interest in <strong> modeling bio
 
 ---
 
-<h2>🤝 Let’s Connect</h2>
+<h2>Let’s Connect</h2>
 
 <p>
 Open to collaboration or discussion in:
@@ -71,7 +71,7 @@ Open to collaboration or discussion in:
 </ul>
 
 <p>
-📫 <strong>Email</strong>: <a href="mailto:bhuwangautam09@gmail.com">bhuwangautam09@gmail.com</a>
+<strong>Email</strong>: <a href="mailto:bhuwangautam09@gmail.com">bhuwangautam09@gmail.com</a>
 </p>
 
 ---
