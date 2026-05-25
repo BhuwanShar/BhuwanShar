@@ -9,7 +9,7 @@
 
 ## About
 
-I work at the intersection of computational biology, graph representation learning, and statistical modeling. My research focuses on integrating biological networks, functional ontologies, and sequence-derived representations to study complex molecular systems.
+I work at the intersection of computational biology, graph representation learning, and statistical modeling. My research focuses on integrating biological networks, functional ontologies, and sequencing data.
 
 My current work involves graph neural networks, transformer-based biological embeddings, gene regulatory network inference, and multimodal feature integration for biomarker discovery and systems-level analysis.
 
