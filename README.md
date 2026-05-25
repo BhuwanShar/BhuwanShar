@@ -77,8 +77,10 @@ My current work involves graph neural networks, transformer-based biological emb
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhuwanShar&show_icons=true&theme=default" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanShar&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhuwanShar&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanShar&layout=compact&theme=radical&hide_border=true)
+
+</div>
