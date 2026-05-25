@@ -1,82 +1,81 @@
 <h1 align="center">Bhuwan Sharma</h1>
 
 <p align="center">
-  <strong> Computational and System Biology • Bioinformatics • Deep Learning </strong><br>
-  <em> Exploring the interface of biology and computation</em>
-</p>
-
-<hr>
-
-<h2> About</h2>
-
-Cross -  domain research enthusiast, with deep interest in <strong> modeling biological systems </strong> through <strong> statistical learning </strong>,<strong> machine intelligence </strong> and <strong> systems biology </strong>. My current direction lies at the intersection of graph-based methods, biological ontologies, and neural sequence representations.
-
----
-
-<h2> Research Interests</h2>
-
-<ul>
-  <li><strong>Gene Regulatory Networks (GRNs)</strong> — structure inference and analysis from transcriptomics</li>
-  <li><strong>Graph Machine Learning</strong> - GNNs, node classification, graph construction in biological contexts</li>
-  <li><strong>Transformer-based Models</strong> - biological embeddings using DNABERT, GO-BERT, BioBERT</li>
-  <li><strong>Statistical Modeling</strong> - PCA, PCR, regression in high-dimensional omics data</li>
-  <li><strong>Integration Strategies</strong> - combining expression data, ontologies, and sequence features</li>
-</ul>
-
----
-
-<h2> Technical Stack</h2>
-
-<table>
-<tr>
-  <td><strong>Languages</strong></td>
-  <td>Python, R, Bash &nbsp;&nbsp;<em>(familiar with C, Java, Perl)</em></td>
-</tr>
-<tr>
-  <td><strong>Bioinformatics</strong></td>
-  <td>limma, DESeq2, GEOquery, clusterProfiler, biomaRt, igraph</td>
-</tr>
-<tr>
-  <td><strong>Machine Learning</strong></td>
-  <td>PyTorch, scikit-learn, transformers, torch_geometric</td>
-</tr>
-<tr>
-  <td><strong>Systems</strong></td>
-  <td>Linux, Git, Conda</td>
-</tr>
-</table>
-
----
-
-<h2> Current Focus</h2>
-
-<ul>
-  <li>Graph-based modeling of biological systems with structure-aware learning methods</li>
-  <li>Embedding functional annotations and biological sequences using transformer models</li>
-  <li>Integrating gene expression, topology, and semantic features for predictive modeling in genomics</li>
-</ul>
-
----
-
-<h2>Let’s Connect</h2>
-
-<p>
-Open to collaboration or discussion in:
-</p>
-
-<ul>
-  <li>Regulatory genomics</li>
-  <li>Biological network inference</li>
-  <li>Transformer-based models in bioinformatics</li>
-</ul>
-
-<p>
-<strong>Email</strong>: <a href="mailto:bhuwangautam09@gmail.com">bhuwangautam09@gmail.com</a>
+<strong>Computational Systems Biology • Network Biology • Machine Learning</strong><br>
+<em>Researching structure-aware learning methods for biological systems</em>
 </p>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## About
+
+I work at the intersection of computational biology, graph representation learning, and statistical modeling. My research focuses on integrating biological networks, functional ontologies, and sequence-derived representations to study complex molecular systems.
+
+My current work involves graph neural networks, transformer-based biological embeddings, gene regulatory network inference, and multimodal feature integration for biomarker discovery and systems-level analysis.
+
+---
+
+## Research Areas
+
+- **Gene Regulatory Networks (GRNs)**  
+  Structure inference, topology analysis, and regulatory modeling from transcriptomic data
+
+- **Graph Representation Learning in Biology**  
+  Graph neural networks, node representation learning, and biologically informed graph construction
+
+- **Biological Language Models**  
+  Representation learning using DNABERT, BioBERT, and ontology-aware embedding strategies
+
+- **High-Dimensional Statistical Modeling**  
+  Principal component methods, regression frameworks, and dimensionality reduction in omics data
+
+- **Systems-Level Data Integration**  
+  Integrating sequence information, ontologies, graph structure, and expression profiles
+
+---
+
+## Technical Stack
+
+| Area | Tools & Frameworks |
+|---|---|
+| **Languages** | Python, R, Bash |
+| **Machine Learning** | PyTorch, PyTorch Geometric, scikit-learn, transformers |
+| **Bioinformatics** | limma, DESeq2, GEOquery, clusterProfiler, biomaRt, igraph |
+| **Graph Analysis** | NetworkX, torch_geometric, graph-based pipelines |
+| **Systems & Environment** | Linux, Git, Conda |
+
+---
+
+## Current Research Focus
+
+- Graph-based biomarker prediction using biological network topology
+- Transformer-derived embeddings for genes and functional annotations
+- Integration of GO semantics, sequence representations, and graph structure
+- Structure-aware learning approaches for biological systems
+- Knowledge-guided representation learning in genomics
+
+---
+
+## Selected Technical Interests
+
+- Graph Neural Networks
+- Representation Learning
+- Biological Knowledge Graphs
+- Regulatory Genomics
+- Network Medicine
+- Statistical Learning
+- Computational Genomics
+
+---
+
+## Contact
+
+**Email:**  
+<a href="mailto:bhuwangautam09@gmail.com">bhuwangautam09@gmail.com</a>
+
+---
+
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhuwanShar&show_icons=true&theme=default" alt="GitHub stats" />
