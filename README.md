@@ -74,13 +74,3 @@ My current work involves graph neural networks, transformer-based biological emb
 <a href="mailto:bhuwangautam09@gmail.com">bhuwangautam09@gmail.com</a>
 
 ---
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhuwanShar&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanShar&layout=compact&theme=radical&hide_border=true)
-
-</div>
