@@ -23,10 +23,10 @@ My current work involves graph neural networks, transformer-based biological emb
 - **Graph Representation Learning in Biology**  
   Graph neural networks, node representation learning, and biologically informed graph construction
 
-- **Biological Language Models**  
+- **Language Models**  
   Representation learning using DNABERT, BioBERT, and ontology-aware embedding strategies
 
-- **High-Dimensional Statistical Modeling**  
+- **Statistical Modeling**  
   Principal component methods, regression frameworks, and dimensionality reduction in omics data
 
 - **Systems-Level Data Integration**  
