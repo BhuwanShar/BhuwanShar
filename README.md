@@ -1,7 +1,7 @@
 <h1 align="center">Bhuwan Sharma</h1>
 
 <p align="center">
-<strong>Computational Systems Biology • Network Biology • Machine Learning</strong><br>
+<strong>Computational Systems Biology • Network Biology • Deep Learning</strong><br>
 <em>Researching structure-aware learning methods for biological systems</em>
 </p>
 
