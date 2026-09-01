@@ -1,12 +1,8 @@
-  <p align="center">
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:040B18,18:081B35,40:0B3B5A,62:087F8C,82:12B8A6,100:42E8D0&height=180&section=header&text=Bhuwan%20Sharma&fontSize=42&fontColor=F5FFFF&fontAlignY=38&desc=&descAlignY=56&descSize=15&descColor=B7FFF7&animation=fadeIn"
-      width="100%"
-    />
-  </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,18:03152B,36:052B4A,54:064C63,72:087F86,88:00B8A9,100:18E6C8&height=180&section=header&text=Bhuwan%20Sharma&fontSize=42&fontColor=F2FFFF&fontAlignY=38&desc=&descAlignY=56&descSize=15&descColor=9DF5E6&animation=fadeIn" width="100%" alt="Bhuwan Sharma" />
+</p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=800&color=2FE0C4&center=true&vCenter=true&width=720&lines=Building+structure-aware+learning+systems+for+biology;Graph+Neural+Networks+%C3%97+Protein+Dynamics+%C3%97+Knowledge+Graphs;Physics-informed+ML+for+cancer+biomarker+discovery;Integrating+ontologies%2C+sequences+%26+network+topology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=800&color=2FE0C4&center=true&vCenter=true&width=720&lines=Building+structure-aware+learning+systems+for+biology;Graph+Neural+Networks+%C3%97+Protein+Dynamics+%C3%97+Knowledge+Graphs;Integrating+ontologies%2C+sequences+%26+network+topology" alt="Typing SVG" />
   </p>
   
   <p align="center">
@@ -196,7 +192,7 @@
   <td width="50%" valign="top">
   
   ### 🎓 M.Sc. Bioinformatics
-  **University of North Bengal** · 2023–2025
+  **University of North Bengal (NBU)** · 2023–2025
   
   Dissertation at the **Computational Systems Biology Lab**
   
@@ -206,9 +202,9 @@
   <td width="50%" valign="top">
   
   ###  B.Sc. Zoology (Honours)
-  **Kalimpong College, UoNB** · 2020–2023
+  **Kalimpong College, NBU** · 2020–2023
   
-  Molecular Biology · Genetics · Biochemistry
+  Molecular Biology · Genetics · Biochemistry · Evolution · Immunology
   
   **CGPA:** 7.64 / 10
   
