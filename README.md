@@ -191,7 +191,7 @@
   <tr>
   <td width="50%" valign="top">
   
-  ### 🎓 M.Sc. Bioinformatics
+  ###  M.Sc. Bioinformatics
   **University of North Bengal (NBU)** · 2023–2025
   
   Dissertation at the **Computational Systems Biology Lab**
